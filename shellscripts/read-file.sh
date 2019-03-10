@@ -3,7 +3,7 @@
 # Author: Rogério dos Santos under GPL v2.x+
 
 # File path
-_file="./customer-names.txt"
+_file="./files/customer-names.txt"
 
 while IFS= read line
 do
